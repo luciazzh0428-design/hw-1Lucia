@@ -19,4 +19,4 @@ Here are the main steps I followed:
 - README update with video link
 
 ## Video Walkthrough
-(Add your YouTube unlisted link here)
+https://youtu.be/uighjhMViPo
